@@ -15,16 +15,16 @@ pip install tkinter
 
 ## Запуск проекта
 
-1. Клонируйте репозиторий на свой локальный компьютер:
-    ```
-    git clone https://github.com/вашпользователь/вашрепозиторий.git
-    
-    ```
+1. Скачайте .ZIP файл проекта с GitHub
+- https://github.com/RomanKramarQL/InteractiveMap
+- InteractiveMap-main.zip - основной архив приложения.
 
-2. Перейдите в директорию проекта:
+2. Распакуйте ахрив на рабочий стол и перейдите в директорию проекта:
     ```
-    cd
-    
+    cd C:\Users\ВАШ_КОМПЬЮТЕР\OneDrive\Рабочий стол\InteractiveMap-main
     ```
-    
+3. Запустите исполняемый код
+   ```
+    python main.py
+   ```
 
