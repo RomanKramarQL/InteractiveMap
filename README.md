@@ -1,4 +1,4 @@
-﻿# Installation
+﻿# Установка зависимостей
 В своей работе я использовал внешние библиотеки: customtkinter; Pillow; tkintermapview; tkinter;
 ```
 pip install customtkinter
